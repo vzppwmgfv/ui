@@ -1,17 +1,13 @@
 # shadcn/ui
 
-A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code. **Use this to build your own component library**.
+Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
-![hero](apps/v4/public/opengraph-image.png)
+Read the documentation at [ui.shadcn.com](https://ui.shadcn.com).
 
 ## Documentation
 
-Visit https://ui.shadcn.com/docs to view the documentation.
-
-## Contributing
-
-Please read the [contributing guide](/CONTRIBUTING.md).
+Visit [ui.shadcn.com/docs](https://ui.shadcn.com/docs) to view the documentation and component usage guides.
 
 ## License
 
-Licensed under the [MIT license](./LICENSE.md).
+Licensed under the [MIT license](LICENSE.md).
